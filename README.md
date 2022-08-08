@@ -1,2 +1,2 @@
-# 10-shopping-list
+# shopping-list
 
